@@ -1,7 +1,9 @@
 ### Project: [Bitcoin](../projects/bitcoin.md)
 ### Date: 10 August 2017
 ## Summary
-Yesterday, Bitcoin launched completed [SegWit](bitcoin_09-08-17.md) for transactions between users. As the first day passed here are some lessons, Bitcoin can take from [Litecoin](../projects/litecoin.md) that activated Segwit in the mid-June. Here are they: SegWit is easy to keep active, transactions that use it are growing, businesses start to adopt new rules, however, some users have trouble with it. Any way, the BTC raised on 2.08% to $3415.17.
+Yesterday, Bitcoin launched completed [SegWit](bitcoin_09-08-17.md) for transactions between users. 
+\n\n 
+As the first day passed here are some lessons, Bitcoin can take from [Litecoin](../projects/litecoin.md) that activated Segwit in the mid-June. Here are they: SegWit is easy to keep active, transactions that use it are growing, businesses start to adopt new rules, however, some users have trouble with it. Any way, the BTC raised on 2.08% to $3415.17.
 ## Source Link
 [SegWit in the Wild](https://www.coindesk.com/segwit-wild-can-bitcoin-learn-litecoin/)  
 ## Links on topic
